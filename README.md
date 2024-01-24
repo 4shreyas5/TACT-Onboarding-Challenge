@@ -12,12 +12,6 @@ Welcome to the TACT Onboarding Challenge! This short challenge will empower you 
 ### Deadline ⏳
 3rd November (Friday), EOD
 
-### Rewards on successful completion of the challenge 🏆
-- First 50 successful PRs would get TON merch at hackCBS event
-- Everyone successfully raising a PR would get:
-    - Added to the talent group of TON on Telegram
-    - An NFT from the Nujan team
-
 # The Challenge 🛠
 
 1. Refer to this tutorial series on Tact : <br>
